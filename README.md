@@ -13,6 +13,6 @@ robocraft-mod
   How to report bugs on the repo
 
 1. Go to [the issues page] (https://github.com/michaelcurtis96/robocraft-mod/issues).
-2. Click `New Issue` right below `Graphs`.
+2. Click `New Issue`.
 3. Enter your Issue's title, and then create a detailed description.
 4. Click `Submit new issue`, and you're done!
