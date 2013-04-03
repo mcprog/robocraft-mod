@@ -9,7 +9,7 @@ Welcome to the world of Robocraft
   I am part of FIRST FRC Robotics Team 3189 (the Circuit Breakers) and our Team Captian suggested a robot themed mod.
   For more information of Team 3189 visit: [Team 3189] (http://www.eduhsdrobotics.org/)
   
-  #### Creating an Issue
+### Creating an Issue
   How to report bugs on the repo
 
 1. Go to [the issues page] (http://github.com/pahimar/Equivalent-Exchange-3/issues).
