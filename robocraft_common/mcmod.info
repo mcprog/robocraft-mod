@@ -1,0 +1,18 @@
+[
+{
+  "modid": "RBC",
+  "name": "Robocraft",
+  "description": "Create a robot, program a robot, Compete with a robot!",
+  "version": "1.0.0",
+  "url": "not yet :<",
+  "updateUrl": "",
+  "authorList": ["michaelcurtis96"],
+  "credits": "By michaelcurtis96, with help from ime990",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
