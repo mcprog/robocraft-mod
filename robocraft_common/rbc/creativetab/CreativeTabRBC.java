@@ -1,12 +1,20 @@
-package com.michaelcurtis96.rbc.creativetab;
+package rbc.creativetab;
 
 import net.minecraft.creativetab.CreativeTabs;
-
-import com.michaelcurtis96.rbc.lib.ItemIds;
-
+import rbc.lib.ItemIds;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
+
+/**
+ * Robocraft
+ * 
+ * CreativeTabRBC
+ * 
+ * @author michaelcurtis96
+ * 
+ * @license Lesser GNU Public License v3 (http://www.gnu.org/licenses/lgpl.html)
+ */
 
 public class CreativeTabRBC extends CreativeTabs {
 

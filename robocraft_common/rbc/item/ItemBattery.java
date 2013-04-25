@@ -1,15 +1,23 @@
-package com.michaelcurtis96.rbc.item;
+package rbc.item;
 
 import net.minecraft.client.renderer.texture.IconRegister;
 import net.minecraft.item.Item;
 import net.minecraft.util.Icon;
-
-import com.michaelcurtis96.rbc.Robocraft;
-import com.michaelcurtis96.rbc.lib.Reference;
-import com.michaelcurtis96.rbc.lib.Strings;
-
+import rbc.Robocraft;
+import rbc.lib.Reference;
+import rbc.lib.Strings;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
+
+/**
+ * Robocraft
+ * 
+ * ItemBattery
+ * 
+ * @author michaelcurtis96
+ * 
+ * @license Lesser GNU Public License v3 (http://www.gnu.org/licenses/lgpl.html)
+ */
 
 public class ItemBattery extends Item {
 
